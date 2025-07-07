@@ -33,5 +33,5 @@ A IA analisa frases ou textos e indica se o conteúdo é:
 ### 1️⃣ Clone este repositório
 
 ```bash
-git clone https://github.com/seu-usuario/sentimento_ia.git
+git clone https://github.com/AdrianoCosta78/sentimento_ia.git
 cd sentimento_ia
